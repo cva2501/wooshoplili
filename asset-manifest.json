@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wooshoplili/static/css/main.bfdc5d51.chunk.css",
+    "main.js": "/wooshoplili/static/js/main.a0a64d63.chunk.js",
+    "main.js.map": "/wooshoplili/static/js/main.a0a64d63.chunk.js.map",
+    "runtime-main.js": "/wooshoplili/static/js/runtime-main.6d9b5487.js",
+    "runtime-main.js.map": "/wooshoplili/static/js/runtime-main.6d9b5487.js.map",
+    "static/js/2.30197053.chunk.js": "/wooshoplili/static/js/2.30197053.chunk.js",
+    "static/js/2.30197053.chunk.js.map": "/wooshoplili/static/js/2.30197053.chunk.js.map",
+    "static/js/3.2b83d943.chunk.js": "/wooshoplili/static/js/3.2b83d943.chunk.js",
+    "static/js/3.2b83d943.chunk.js.map": "/wooshoplili/static/js/3.2b83d943.chunk.js.map",
+    "index.html": "/wooshoplili/index.html",
+    "static/css/main.bfdc5d51.chunk.css.map": "/wooshoplili/static/css/main.bfdc5d51.chunk.css.map",
+    "static/js/2.30197053.chunk.js.LICENSE.txt": "/wooshoplili/static/js/2.30197053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d9b5487.js",
+    "static/js/2.30197053.chunk.js",
+    "static/css/main.bfdc5d51.chunk.css",
+    "static/js/main.a0a64d63.chunk.js"
+  ]
+}
